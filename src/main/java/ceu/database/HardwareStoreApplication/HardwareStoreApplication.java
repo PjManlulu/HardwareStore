@@ -1,4 +1,4 @@
-package ceu.HardwareStore;
+package ceu.database.HardwareStoreApplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
